@@ -1,1 +1,2 @@
 # Arabic-Dialect-Identification-Model
+An ADI system is built using a country-level Arabic dataset, QADI dataset. The approach taken in this project is to run a set of experiments using CAMeL Tools which is a machine learning-based model built for Arabic Natural Language Processing(NLP). Transformer-based models are tested such as the following BERT-based pretrained models: AraBERT, CAMeLBERT and RoBERTa. In addition to GPT-based models: Alpaca and ChatGPT.
